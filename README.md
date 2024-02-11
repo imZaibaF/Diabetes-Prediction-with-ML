@@ -1,1 +1,3 @@
 # Diabetes-Prediction-with-ML
+
+I created a diabetes prediction model using machine learning algorithms with Python in Jupyter Notebook. Preprocessing the data, choosing features, and training and validating the model were all part of the procedure. I used tools like Matplotlib for visualizations, scikit-learn for model development, and Pandas for data manipulation. I used methods like Gradient Boosting, Random Forest, and Logistic Regression after dividing the dataset into training and testing sets. Model performance was evaluated using criteria such as accuracy, precision, and recall. In order to produce a predictive tool for early diabetes identification, I made sure it was robust and reliable through iterative refining and cross-validation.
